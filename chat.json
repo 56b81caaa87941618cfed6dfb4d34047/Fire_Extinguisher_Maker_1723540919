@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Include a dynamic 'Current Openings' section with filters for location, job type, and experience level\", \"checked\": true}, {\"feature\": \"Add an interactive FAQ section about career paths, application processes, and benefits\", \"checked\": false}, {\"feature\": \"Implement a chatbot for instant answers to career-related queries\", \"checked\": false}, {\"feature\": \"Incorporate a user profile creation feature to save job applications and track their statuses\", \"checked\": true}, {\"feature\": \"Enable push notifications for new job postings and application updates\", \"checked\": true}, {\"feature\": \"Integrate a portfolio upload and submission option for creative positions\", \"checked\": false}], \"input_token_count\": 217, \"output_token_count\": 143, \"time_taken\": \"0:00:05.981825\"}",
+        "message_id": "guest13082024112156",
+        "timestamp": "13082024112203",
+        "component_file_name": "simple_cta_component_1723540920",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where should the 'Career' button be positioned on the app?\", \"option1\": \"In the main navigation menu\", \"option2\": \"As a footer link\"}, {\"question 2\": \"What functionality should the 'Career' button have?\", \"option1\": \"Direct users to an external job listing page\", \"option2\": \"Open a section within the app listing current job openings\"}], \"input_token_count\": 263, \"output_token_count\": 94, \"time_taken\": \"0:00:04.512773\"}",
         "message_id": "guest13082024112156",
