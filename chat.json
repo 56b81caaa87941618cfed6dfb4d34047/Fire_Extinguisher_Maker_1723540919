@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button with text Carrer",
+        "message_id": "guest13082024112156",
+        "timestamp": "13082024112157",
+        "component_file_name": "simple_cta_component_1723540920",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
