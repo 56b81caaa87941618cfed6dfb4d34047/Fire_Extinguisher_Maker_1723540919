@@ -12,5 +12,11 @@
         "content": "add a button with text Carrer",
         "timestamp": "13082024112157",
         "message_id": "guest13082024112156"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Great, adding a button with the text \"Career\".",
+        "timestamp": "13082024112157",
+        "message_id": "guest13082024112156"
     }
 ]
