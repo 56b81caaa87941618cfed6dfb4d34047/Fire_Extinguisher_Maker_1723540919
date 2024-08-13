@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where should the 'Career' button be positioned on the app?\", \"option1\": \"In the main navigation menu\", \"option2\": \"As a footer link\"}, {\"question 2\": \"What functionality should the 'Career' button have?\", \"option1\": \"Direct users to an external job listing page\", \"option2\": \"Open a section within the app listing current job openings\"}], \"input_token_count\": 263, \"output_token_count\": 94, \"time_taken\": \"0:00:04.512773\"}",
+        "message_id": "guest13082024112156",
+        "timestamp": "13082024112202",
+        "component_file_name": "simple_cta_component_1723540920",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great, adding a button with the text \"Career\".",
         "message_id": "guest13082024112156",
